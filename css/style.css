@@ -1,0 +1,239 @@
+body{
+    font-size: 16px;
+    color:#5b5e6d;
+   
+}
+
+h1, h2, h3, h4, h5{
+    color: #323648;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    margin: 0 auto;
+    width: 100%;
+}
+
+.header-main{
+    overflow: auto;
+    margin: 1em;
+    width: 90%;
+}
+
+.header-main img{
+    max-width: 35%;
+}
+
+.header-main > h2{
+    display: inline-block;
+}
+
+.main-description-products{
+    width: 85%;
+    margin: 0 auto;
+}
+
+.description-img{
+    margin: 3em 0 3em 0;
+}
+
+.description-img > img{
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.description h1{
+    font-size: 2.3em;
+}
+
+.description p{
+    text-align: justify;
+    font-size: 1.2em;
+}
+
+.btn-description-rounded{
+    margin: 0 auto;
+    width: 100%;
+    padding: 1em;
+    background-color: #3F46AD;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.features-jobs-content{
+    width: 85%;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+.features-jobs-content p{
+    font-size: 1.3em;
+}
+
+.features-jobs-btn button{
+    background-color: #FFFFFF;
+    border: 0px;
+    margin: 3px;
+    padding: 1.2em;
+    font-size: 1.3em;
+    text-align: left;
+    font-weight: bold;
+}
+
+.product-features article{
+  margin: 1em 0 3em 0;
+}
+
+.product-features img{
+    max-width: 80px;
+}
+
+.product-features h2{
+    font-size: 1.7em;
+}
+
+.product-features p{
+    font-size: 1.1em;
+    text-align: justify;
+    
+}
+.product-features-link{
+    width: 100%;
+    text-align: center;
+}
+.product-features a{  
+    color: #1c299d;  
+    font-weight: bold;
+    font-size: 1.15em;
+}
+
+.product-features-hr{
+    border-top: 1px solid #1c299d;
+}
+
+.features-jobs{
+    margin:0em;
+    padding:0em;
+    background-color: #F5F5F5;
+}
+
+.features-jobs h2{
+    text-align: center;
+}
+
+.features-jobs p{
+    text-align: justify;
+}
+
+.features-jobs button{
+    width: 100%;
+}
+
+.stories{
+    width: 85%;
+    margin: 0 auto;
+    padding: 2em;
+    background-color: #fafafa;
+}
+
+.card{
+    max-width: 100%;
+}
+
+.card article{
+    background-color: #FFFFFF;
+    margin: 3px;
+    margin: 0 auto;
+    padding: 1em;
+    font-size: 1em;
+    margin: 1em 0 1em 0;
+}
+.card img{
+    max-width: 100%;
+}
+
+.card a{
+    color: #3f46ad;
+    font-weight: 700;
+}
+
+.stories-brans{
+    max-width: 100%;
+    text-align: center;
+}
+
+.stories-brans img{
+    max-width: 35%;
+    margin: 1em;
+}
+
+.try-free{
+    background-color:#3E49A7;
+    margin: 0 auto;
+    padding: 5em 2em 5em 2em;
+    text-align: center;
+}
+
+.try-free-section h2{
+    color: #fff;
+    font-size: 1.5em;
+}
+
+.try-free-section button{
+    background-color: #E7E8EA;
+    color: #3E49A7;
+    border: 0px;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.slack-footer{
+    margin: 0 auto;
+    width: 85%;
+    font-size: 1.1em;
+
+}
+
+.slack-footer img{
+    max-width: 20%;
+}
+
+.footerul{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+.footer li{
+    width: 100%;
+    list-style-type: none;
+    color: #6d6f7b;
+    box-sizing: inherit;
+}
+
+.slack-footer p{
+    color: #6d6f7b;
+    font-weight: bold;
+}
+
+.footer-information{
+    font-size: 1.1em;
+    background-color: #F5F5F5;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer-information ul{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+    list-style-type:none;
+    font-weight: 700;
+}
+
+.footer-information li{
+    padding:1em 0 1em 0;
+
+}
